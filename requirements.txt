@@ -1,0 +1,15 @@
+streamlit
+nltk
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+reportlab
+pydub
+static-ffmpeg
+moviepy
+SpeechRecognition
+openai-whisper
+setuptools-rust
